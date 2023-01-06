@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oqbahdx/amazon-clone-flutter.git"
+  },
+  "author": "oqbah dx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oqbahdx/amazon-clone-flutter/issues"
+  },
+  "homepage": "https://github.com/oqbahdx/amazon-clone-flutter#readme"
+}
